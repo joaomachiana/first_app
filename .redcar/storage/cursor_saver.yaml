@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2013-07-18 14:44:31 +02:00
+  - :path: Gemfile
+    :cursor_offset: 187
+    :timestamp: 2013-07-18 15:11:49 +02:00
+  - :path: .gitignore
+    :cursor_offset: 239
+    :timestamp: 2013-07-18 16:02:03 +02:00
+files_to_retain: 0
