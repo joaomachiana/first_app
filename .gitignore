@@ -13,4 +13,6 @@
 
 # Other stuff to ignore
 /doc
+.project
 .DS_Store
+.idea
